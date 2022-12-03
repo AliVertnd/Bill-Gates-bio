@@ -1,0 +1,77 @@
+html {
+   background-image: url(../img/background.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   min-width: 2560px;
+   min-height: 1440px;
+   max-width: 2560px;
+   max-height: 1440px;
+}
+img {
+   width: 100%;
+   max-width: 100%;
+}
+
+.container {
+
+}
+
+.planets {
+   position: absolute;
+   left:7.99% ;
+   margin-top:25.3% ;
+}
+
+.planets2 {
+   position: absolute;
+   left:62% ;
+   margin-top:29.2% ;
+}
+
+.planets3 {
+   position: absolute;
+   left:8.8% ;
+   margin-top:5.9% ;
+}
+
+.planets4 {
+   position: absolute;
+   left:88.21% ;
+   margin-top:15.48% ;
+}
+
+.planets5 {
+   position: absolute;
+   left:74.7% ;
+   margin-top:8.7% ;
+}
+
+.planets6 {
+   position: absolute;
+   left:30.92% ;
+   margin-top:14.82% ;
+}
+
+.planets7 {
+   position: absolute;
+   left:40.4% ;
+   margin-top:34.5% ;
+}
+
+.enter {
+   position: absolute;
+   left:47.3% ;
+   margin-top:28% ;
+}
+
+.new {
+   position: absolute;
+   left:38.8% ;
+   margin-top:11.1% ;
+}
+
+.characters {
+   position: absolute;
+   left:43.97% ;
+   margin-top:19.97% ;
+}
