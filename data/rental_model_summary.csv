@@ -1,0 +1,5 @@
+scenario,occupancy,adr,gross_year,net_year_low,net_year_high
+stress,0.35,4000,511000,209000,282000
+base_low,0.45,4500,739000,366000,451000
+base_high,0.55,6500,1305000,756000,870000
+optimistic,0.60,7000,1533000,914000,1038000

@@ -1,0 +1,448 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>База данных показателей муниципальных образований</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{font-family:"Verdana","sans-serif";
+	color:#001B6F;
+	text-decoration:none none;}
+a:visited, span.MsoHyperlinkFollowed
+	{font-family:"Verdana","sans-serif";
+	color:#001B6F;
+	text-decoration:none none;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Текст выноски Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.a
+	{mso-style-name:"Текст выноски Знак";
+	mso-style-link:"Текст выноски";
+	font-family:"Tahoma","sans-serif";}
+p.ibsportlettitle, li.ibsportlettitle, div.ibsportlettitle
+	{mso-style-name:ibs_portlet_title;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:9.0pt;
+	font-family:"Verdana","sans-serif";
+	color:#001B6F;}
+p.whiteibs, li.whiteibs, div.whiteibs
+	{mso-style-name:whiteibs;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:7.5pt;
+	font-family:"Verdana","sans-serif";
+	color:white;}
+p.soder, li.soder, div.soder
+	{mso-style-name:soder;
+	margin-top:.75pt;
+	margin-right:0cm;
+	margin-bottom:3.75pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.xls, li.xls, div.xls
+	{mso-style-name:xls;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!-- Yandex.Metrika counter --><noscript></noscript><!-- /Yandex.Metrika counter -->
+<script  type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24371169-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script  type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66236914, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+</head>
+
+<body bgcolor="white" lang="RU" link="#001B6F" vlink="#001B6F" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<div class="WordSection1">
+
+<p class="MsoNormal" style="margin-bottom:10.0pt;line-height:115%"><img width="1" height="1" src="https://mc.yandex.ru/watch/66236914" alt="Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: https://mc.yandex.ru/watch/66236914"></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+ <tbody><tr>
+  <td valign="top" style="padding:0cm 0cm 0cm 0cm">
+  <p style="margin-top:5.0pt;margin-right:7.5pt;margin-bottom:5.0pt;margin-left:
+  7.5pt"><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;&nbsp;&nbsp;
+  </span><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><img width="300" height="57" src="https://rosstat.gov.ru/free_doc/img/logo_small.png" alt="Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: https://rosstat.gov.ru/free_doc/img/logo_small.png"></span></p>
+  </td>
+ </tr>
+ <tr style="height:7.5pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:7.5pt"></td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal"><span style="display:none">&nbsp;</span></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="1" cellpadding="0" width="98%" style="width:98.0%">
+ <tbody><tr style="height:12.75pt">
+  <td style="background:#CCD1E6;padding:3.75pt 1.5pt 3.75pt 7.5pt;height:12.75pt">
+  <p class="MsoNormal" style="margin:7.5pt"><b><span style="font-size:12.0pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:#001B6F">База данных показателей
+  муниципальных образований</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td style="background:#EAECF5;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:7.5pt"><b><span lang="EN-US" style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></b></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.35pt;margin-bottom:
+  3.75pt;margin-left:7.35pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Российская
+  Федерация</span></b></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:7.5pt"><b><span lang="EN-US" style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></b></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;
+  color:#991B1F">Количество муниципальных образований по субъектам Российской
+  Федерации</span></b></p>
+  <p class="MsoNormal" style="margin-top:.75pt;margin-right:7.35pt;margin-bottom:
+  3.75pt;margin-left:43.4pt"><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2025.xlsx">на 1 января
+  2025 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2024.xlsx">на 1 января
+  2024 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2023.xlsx">на 1 января
+  2023 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2022.xlsx">на 1 января
+  2022 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2021.xlsx">на 1 января
+  2021 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2020.xlsx">на 1 января
+  2020 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2019.xlsx">на 1 января
+  2019 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2018.xls">на 1 января
+  2018 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt"><span style="font-size:10.0pt;font-family:Symbol">·</span><span style="font-size:
+  7.0pt">&nbsp;&nbsp;&nbsp; </span><span style="font-size:8.5pt;font-family:
+  &quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp; <a href="https://rosstat.gov.ru/storage/mediabank/1-adm_2017.xls">на 1 января
+  2017 года</a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  12.0pt;margin-left:43.5pt"><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><a href="https://rosstat.gov.ru/storage/mediabank/met_bdpmo.htm"><b>Краткий
+  методологический комментарий по показателям БД ПМО</b></a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><a href="https://rosstat.gov.ru/free_doc/new_site/bd_munst/instruction.htm"><b>Порядок
+  получения данных по показателям БД ПМО</b></a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  0cm;margin-left:43.5pt;margin-bottom:.0001pt"><span style="font-size:8.5pt;
+  font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><a href="http://budget.gov.ru/"><b>Исполнение бюджета муниципального образования</b></a></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:7.5pt;margin-bottom:
+  12.0pt;margin-left:43.5pt">&nbsp;</p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Центральный
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst14">Белгородская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst15">Брянская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst17">Владимирская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst20">Воронежская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst24">Ивановская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst29">Калужская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst34">Костромская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst38">Курская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst42">Липецкая
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst46">Московская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst54">Орловская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst61">Рязанская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst66">Смоленская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst68">Тамбовская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst28">Тверская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst70">Тульская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst78">Ярославская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst45">г.Москва</a></span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Северо-Западный
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst86">Республика
+  Карелия</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst87">Республика
+  Коми</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst11">Архангельская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst19">Вологодская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst27">Калининградская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst41">Ленинградская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst47">Мурманская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst49">Новгородская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst58">Псковская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst40">г.Санкт-Петербург</a></span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Южный
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst79">Республика
+  Адыгея</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst85">Республика
+  Калмыкия</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst35">Республика
+  Крым</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst03">Краснодарский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst12">Астраханская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst18">Волгоградская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst60">Ростовская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst67">г.
+  Севастополь</a> </span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Северо-Кавказский
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst82">Республика
+  Дагестан</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst26">Республика
+  Ингушетия</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst83">Кабардино-Балкарская
+  Республика</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst91">Карачаево-Черкесская
+  Республика</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst90">Республика
+  Северная Осетия - Алания</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst96">Чеченская
+  Республика</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst07">Ставропольский
+  край</a></span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Приволжский
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst80">Республика
+  Башкортостан</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst88">Республика
+  Марий Эл</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst89">Республика
+  Мордовия</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst92">Республика
+  Татарстан</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst94">Удмуртская
+  Республика</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst97">Чувашская
+  Республика</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst57">Пермский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst33">Кировская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst22">Нижегородская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst53">Оренбургская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst56">Пензенская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst36">Самарская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst63">Саратовская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst73">Ульяновская
+  область</a></span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:3.75pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Уральский
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst37">Курганская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst65">Свердловская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst71">Тюменская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst75">Челябинская
+  область</a></span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.35pt;margin-bottom:
+  3.75pt;margin-left:43.4pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Сибирский
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst84">Республика
+  Алтай</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst93">Республика
+  Тыва</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst95">Республика
+  Хакасия</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst01">Алтайский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst04">Красноярский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst25">Иркутская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst32">Кемеровская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst50">Новосибирская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst52">Омская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst69">Томская
+  область</a></span></p>
+  <p class="soder" style="margin-top:.75pt;margin-right:7.5pt;margin-bottom:12.0pt;
+  margin-left:43.5pt"><b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Дальневосточный
+  федеральный округ</span></b><span style="font-size:8.5pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst81">Республика
+  Бурятия</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst98">Республика
+  Саха (Якутия)</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst76">Забайкальский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst30">Камчатский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst05">Приморский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst08">Хабаровский
+  край</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst10">Амурская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst44">Магаданская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst64">Сахалинская
+  область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst99">Еврейская
+  автономная область</a><br>
+  &nbsp;<a href="https://rosstat.gov.ru/dbscripts/munst/munst77">Чукотский
+  автономный округ</a></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+
+
+
+</body></html>

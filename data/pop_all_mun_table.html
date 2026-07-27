@@ -1,0 +1,144 @@
+<HTML>
+<HEAD>
+<META content="text/html; charset=windows-1251" http-equiv=Content-Type>
+<TITLE>Результат запроса к Базе данных показателей муниципальных образований</TITLE>
+<style type=text/css>@import url(/db/1CDBSS.css);</style>
+</HEAD><BODY  onLoad="focus();return(true);">
+
+<p><img border="0" src="/dbscripts/munst/Banner.jpg" width="800" height="113"><br>
+<div STYLE="font-family:Arial; color:darkblue; font-size:12; font-weight:bold; position:absolute; top:60; left:120;">
+ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ СТАТИСТИКИ</div>
+<img border="0" src="region.gif" width="559" height="17"><img border="0" src="/dbscripts/munst/Regionright.jpg" width="241" height="17"></p>
+<div align="left">
+<SCRIPT language="JavaScript">
+<!--
+ 
+function TestPeriod()
+{
+  i1 = document.forms.ToolBarForm.YearFrom.selectedIndex;
+  i2 = document.forms.ToolBarForm.YearTo.selectedIndex;
+  i3 = document.forms.ToolBarForm.Format.selectedIndex;
+  if (document.forms.ToolBarForm.YearFrom.options[i1].text>document.forms.ToolBarForm.YearTo.options[i2].text)
+  {
+    alert("Начало периода больше даты окончания. Исправьте даты." );
+  }
+  else
+  {
+    document.forms.DateFilter.YearFrom.value = document.forms.ToolBarForm.YearFrom.options[i1].text;
+    document.forms.DateFilter.YearTo.value = document.forms.ToolBarForm.YearTo.options[i2].text;
+    document.forms.DateFilter.Format.value = document.forms.ToolBarForm.Format.options[i3].text;
+    document.forms.DateFilter.tbl.click();
+  }
+}
+ 
+function TestFormat()
+{
+  if (document.forms.ToolBarForm.Format.selectedIndex > 0)
+  {
+  	document.forms.ToolBarForm.showtbl0.disabled=false;
+  }
+  else
+  {
+    document.forms.ToolBarForm.showtbl0.disabled=true;
+  }
+}
+ 
+function ShowMetodol(KodPok)
+{
+  window.open("/munst84/" + KodPok + ".htm","","Scrollbars=1,Resizable=1,Width=500,Height=400");
+}
+ 
+-->
+</SCRIPT>
+<FORM action=/dbscripts/munst/munst84/DBInet.cgi method="POST" name="ToolBarForm">
+<TABLE><TR>
+<TD><SPAN class="SelectFormat">Выберите формат документа</SPAN></TD>
+<TD><SELECT name="Format" size="1" class="Select" style="font-size:8pt;" onchange="TestFormat()">
+<OPTION>
+<OPTION>Excel
+<OPTION>CSV
+</SELECT></TD>
+<TD><INPUT type="button" name="showtbl0" disabled value="Выполнить" style="font-size:8pt;" onclick="TestPeriod();"></TD>
+<TD>&nbsp;</TD>
+<TD><SPAN class="SelectFormat">Период</SPAN></TD>
+<TD><SELECT name="YearFrom" size="1" class="Select" style="font-size:8pt;">
+<OPTION SELECTED>2019
+<OPTION>2020
+<OPTION>2021
+<OPTION>2022
+<OPTION>2023
+<OPTION>2024
+<OPTION>2025
+</SELECT></TD>
+<TD><SPAN class="SelectFormat">по</SPAN></TD>
+<TD><SELECT name="YearTo" size="1" class="Select" style="font-size:8pt;">
+<OPTION SELECTED>2025
+<OPTION>2024
+<OPTION>2023
+<OPTION>2022
+<OPTION>2021
+<OPTION>2020
+<OPTION>2019
+</SELECT></TD>
+<TD><INPUT type="button" name="showtbl" value="Выполнить" style="font-size:8pt;" onclick="TestPeriod();"></TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR><td height="10"></td></TR>
+</TABLE>
+</FORM>
+<TABLE  style="display:none"><TR><TD>
+<FORM action=/dbscripts/munst/munst84/DBInet.cgi method="POST" name="DateFilter">
+<INPUT type="hidden" name="Format" value="">
+<INPUT type="hidden" name="YearTo" value="">
+<INPUT type="hidden" name="YearFrom" value="">
+<INPUT type="hidden" name="DiagSz" value="800x600">
+<INPUT type="hidden" name="Qry" value="Pokazateli:8112027;munr:84610000,84615000,84620000,84625000,84630000,84635000,84640000,84643000,84645000,84650000,84700000;tippos:10,7;oktmo:84610000,84615000,84620000,84625000,84630000,84635000,84640000,84643000,84645000,84650000,84701000;mest:11;god:2019,2020,2021,2022,2023,2024,2025;period:208;">
+<INPUT type="hidden" name="QryGm" value="Pokazateli_z:1;tippos_z:1;mest_z:1;period_z:1;munr_b:1;oktmo_b:2;god_s:1;">
+<INPUT type="hidden" name="QryFootNotes" value="">
+<INPUT type="hidden" name="YearsList" value="2019;2020;2021;2022;2023;2024;2025;">
+<INPUT type="submit" style="visibility:hidden" name="tbl" value="Показать таблицу" >
+</FORM>
+</TD>
+</TR>
+</TABLE>
+</div>
+<div align="left">
+<font face="verdana" size=6>
+<TABLE class=OutTbl  bordercolor=darkgray cellspacing=0 border=1>
+<CAPTION><div class=ZagTbl>Оценка численности населения на 1 января текущего года, человек,<br>Муниципальный район,<br>Все население,<br>на 1 января</div></CAPTION>
+<TR><TD class=TblShap width=36% rowspan=1 border=0></TD><TD class=TblShap colspan=0>2019</TD><TD class=TblShap colspan=0>2020</TD><TD class=TblShap colspan=0>2021</TD><TD class=TblShap colspan=0>2022</TD><TD class=TblShap colspan=0>2023</TD><TD class=TblShap colspan=0>2024</TD><TD class=TblShap colspan=0>2025</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Кош-Агачский муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Кош-Агачский муниципальный район</p></TD><TD align=right>19308</TD><TD align=right>19616</TD><TD align=right>19906</TD><TD align=right>20286</TD><TD align=right>18512</TD><TD align=right>18620</TD><TD align=right>18756</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Майминский  муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Майминский муниципальный район</p></TD><TD align=right>34242</TD><TD align=right>34570</TD><TD align=right>34582</TD><TD align=right>34647</TD><TD align=right>30665</TD><TD align=right>30941</TD><TD align=right>30987</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Онгудайский муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Онгудайский муниципальный район</p></TD><TD align=right>14234</TD><TD align=right>14142</TD><TD align=right>14131</TD><TD align=right>14206</TD><TD align=right>14049</TD><TD align=right>14025</TD><TD align=right>14021</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Турочакский  муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Турочакский муниципальный район</p></TD><TD align=right>12452</TD><TD align=right>12404</TD><TD align=right>12416</TD><TD align=right>12265</TD><TD align=right>10960</TD><TD align=right>10794</TD><TD align=right>10648</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Улаганский муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Улаганский муниципальный район</p></TD><TD align=right>11667</TD><TD align=right>11761</TD><TD align=right>11981</TD><TD align=right>12075</TD><TD align=right>11798</TD><TD align=right>11926</TD><TD align=right>12017</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Усть-Канский муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Усть-Канский муниципальный район</p></TD><TD align=right>14554</TD><TD align=right>14589</TD><TD align=right>14758</TD><TD align=right>14743</TD><TD align=right>14297</TD><TD align=right>14207</TD><TD align=right>14146</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Усть-Коксинский  муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Усть-Коксинский муниципальный район</p></TD><TD align=right>16145</TD><TD align=right>16121</TD><TD align=right>15981</TD><TD align=right>15875</TD><TD align=right>15691</TD><TD align=right>15634</TD><TD align=right>15545</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Чемальский  муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Чемальский муниципальный район</p></TD><TD align=right>10505</TD><TD align=right>10757</TD><TD align=right>10985</TD><TD align=right>11235</TD><TD align=right>10394</TD><TD align=right>10557</TD><TD align=right>10690</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Чойский  муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Чойский муниципальный район</p></TD><TD align=right>8192</TD><TD align=right>8064</TD><TD align=right>7996</TD><TD align=right>7946</TD><TD align=right>7471</TD><TD align=right>7439</TD><TD align=right>7428</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>Шебалинский  муниципальный район</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Шебалинский муниципальный район</p></TD><TD align=right>13722</TD><TD align=right>13693</TD><TD align=right>13714</TD><TD align=right>13723</TD><TD align=right>11975</TD><TD align=right>12114</TD><TD align=right>12009</TD></TR>
+</TABLE>
+<br>
+<TABLE class=OutTbl  bordercolor=darkgray cellspacing=0 border=1>
+<CAPTION><div class=ZagTbl>Оценка численности населения на 1 января текущего года, человек,<br>Городской округ, городской округ с внутригородским делением,<br>Все население,<br>на 1 января</div></CAPTION>
+<TR><TD class=TblShap width=31% rowspan=1 border=0></TD><TD class=TblShap colspan=0>2019</TD><TD class=TblShap colspan=0>2020</TD><TD class=TblShap colspan=0>2021</TD><TD class=TblShap colspan=0>2022</TD><TD class=TblShap colspan=0>2023</TD><TD class=TblShap colspan=0>2024</TD><TD class=TblShap colspan=0>2025</TD></TR>
+<TR><TD class=TblBok><p  class=bL0 align=left>г.Горно-Алтайск</p></TD><TD colspan=7></TD></TR>
+<TR><TD class=TblBok><p  class=bL1 align=left>Город Горно-Алтайск</p></TD><TD align=right>63845</TD><TD align=right>64464</TD><TD align=right>64504</TD><TD align=right>64558</TD><TD align=right>64957</TD><TD align=right>64508</TD><TD align=right>63848</TD></TR>
+</TABLE>
+<br>
+<!--  Файл:DBInet.cgi  Версия:1.1.1.12  -->
+</font> 
+</div>
+<p align=right style="border-top: 1 solid black"><small><i>Copyright © Федеральная служба государственной статистики, 2007</i></small></p>
+</BODY>
+</HTML>
