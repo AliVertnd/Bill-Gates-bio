@@ -11,14 +11,17 @@
 
 ## Статус
 
-**Готова выжимка для маркетинг-директора:** `docs/deliverables/00_финальная_выжимка_маркетинг_директор.md`
+**Выжимка для маркетинг-директора (v1.1):** `docs/deliverables/00_финальная_выжимка_маркетинг_директор.md`  
+**Карта инициатив:** `docs/deliverables/05_карта_возможностей_и_инициативы.md`
 
 Слои:
-- Hard data (Росстат/КСР/цены/ввод): `docs/working/04_hard_data_росстат.md` + `data/*.csv`
+- Hard data: `docs/working/04_hard_data_росстат.md` + `data/*.csv`
 - Конкуренты DOM: `docs/working/05_конкуренты_domrf.md`
 - Rental model: `docs/working/06_gateway_rental_model.md`
-- IMPRO контуры (драфт без доступа к модели): `docs/working/07_impro_контуры_драфт.md`
+- IMPRO офер 5 блоков / 600–900к: `docs/working/07_impro_контуры_драфт.md`
+- АН / УК / медиа: `docs/working/08_ан_ук_медиа_подрядчики.md`
+- Соцсети и тренды Алтая: `docs/working/09_соцсети_тренды_алтай.md`
 - Gateway / глубокий анализ: `docs/working/02_…`, `03_…`
 - Полнота данных: `docs/deliverables/04_статус_полноты_данных.md`
 
-Блокер: `AliVertnd/Impro.Group_Documents` недоступен.
+Блокер: zip модели IMPRO ожидается; `Impro.Group_Documents` из этого агента недоступен.
