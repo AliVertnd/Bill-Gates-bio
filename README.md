@@ -18,10 +18,12 @@
 - Hard data: `docs/working/04_hard_data_росстат.md` + `data/*.csv`
 - Конкуренты DOM: `docs/working/05_конкуренты_domrf.md`
 - Rental model: `docs/working/06_gateway_rental_model.md`
-- IMPRO офер 5 блоков / 600–900к: `docs/working/07_impro_контуры_драфт.md`
+- IMPRO офер v2 (канон zip): `docs/working/07_impro_контуры_драфт.md`
+- Офер «Талай» для MD/основателя: `docs/deliverables/06_офер_талай_impro_канон.md`
+- Источник модели IMPRO: `docs/sources/impro_group/`
 - АН / УК / медиа: `docs/working/08_ан_ук_медиа_подрядчики.md`
 - Соцсети и тренды Алтая: `docs/working/09_соцсети_тренды_алтай.md`
 - Gateway / глубокий анализ: `docs/working/02_…`, `03_…`
 - Полнота данных: `docs/deliverables/04_статус_полноты_данных.md`
 
-Блокер: zip модели IMPRO ожидается; `Impro.Group_Documents` из этого агента недоступен.
+Модель IMPRO: ingested из zip (Я.Диск, ветка `research-agency-docs-framework-5433`).
