@@ -1,0 +1,5 @@
+scenario,occupancy,adr,gross_year,net_year_low,net_year_high,notes
+stress,0.35,4000,511000,209000,282000,confirmed; achieved~Mayma/low season
+base_low,0.45,4500,739000,366000,451000,confirmed; near GA asking median
+base_high,0.55,5500,1104000,618000,721000,REVISED adr 6500->5500; was overstated asking-as-achieved
+optimistic,0.60,6500,1424000,838000,957000,REVISED adr 7000->6500; stretch with strong operator
